@@ -1,4 +1,3 @@
-# Form Template Builder
 
 Welcome! 👋
 
@@ -62,30 +61,3 @@ This project is a modern, user-friendly **Form Template Builder** built with Rea
 - Type safety everywhere
 - Ready for unit/component tests
 
----
-
-## 📸 Demo Video
-
-_Add your demo video link here!_
-
----
-
-## 🤝 Collaborators
-
-This repo should be private. Please add:
-
-- Joybaruah
-- aravind08
-- HackX-IN
-- Dhanush1357
-
----
-
-## 📝 Notes
-
-- If you see any bugs or want to suggest improvements, open an issue or PR!
-- The fear of long words is called **hippopotomonstrosesquipedaliophobia**. (Yes, really!)
-
----
-
-Thanks for checking out this project. Happy form building! 🚀
